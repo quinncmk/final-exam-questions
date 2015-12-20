@@ -1,4 +1,4 @@
-package QuestionC;
+package Question4;
 
 public class IllegalRectangle extends Exception{
 	private int x;

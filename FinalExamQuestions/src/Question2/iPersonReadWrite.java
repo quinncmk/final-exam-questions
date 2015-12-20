@@ -1,4 +1,4 @@
-package QuestionA;
+package Question2;
 
 public interface iPersonReadWrite {
 	public void setFirstName();

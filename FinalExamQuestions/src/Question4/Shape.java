@@ -1,4 +1,4 @@
-package QuestionB;
+package Question4;
 
 abstract class Shape {
 	private int x;

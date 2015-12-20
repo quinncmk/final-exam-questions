@@ -1,4 +1,4 @@
-package QuestionE;
+package Question6;
 
 import java.util.Date;
 
